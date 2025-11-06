@@ -1,0 +1,3929 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="orig_weight" attr.type="long" />
+  <key id="d1" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d0" for="node" attr.name="tna_category" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="100Hires ATS">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Shape">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Gmail">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Hireflix">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Ashby">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="HrFlow.ai">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Navigatr">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Small Improvements">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Workable">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Workboard">
+      <data key="d0">Action</data>
+    </node>
+    <node id="monday.com">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Slack">
+      <data key="d0">Action</data>
+    </node>
+    <node id="LeadConnector">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Odoo ERP Self Hosted">
+      <data key="d0">Action</data>
+    </node>
+    <node id="RD Station">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Zoho Recruit">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Zapier Tables">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Asana">
+      <data key="d0">Action</data>
+    </node>
+    <node id="8xpand">
+      <data key="d0">Action</data>
+    </node>
+    <node id="SurveyMonkey">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Microsoft Outlook">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Microsoft Excel">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Jira Service Management">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Xero">
+      <data key="d0">Action</data>
+    </node>
+    <node id="QuickBooks Online">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Zoho Mail">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Breezy HR">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="BambooHR">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="When I Work">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Clockify">
+      <data key="d0">Action</data>
+    </node>
+    <node id="OnePageCRM">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Google Chat">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Email by Zapier">
+      <data key="d0">Action</data>
+    </node>
+    <node id="DriverReach">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Enquiry Tracker">
+      <data key="d0">Action</data>
+    </node>
+    <node id="InfluencerSoft">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="LifterLMS">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Teachfloor">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Xobin">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Zoho People">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="DeleTrain">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Disco">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="EdApp">
+      <data key="d0">Action</data>
+    </node>
+    <node id="EducateMe">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Innform">
+      <data key="d0">Action</data>
+    </node>
+    <node id="TestGorilla">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="AssessTEAM">
+      <data key="d0">Action</data>
+    </node>
+    <node id="BCdiploma">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Bizneo HR">
+      <data key="d0">Action</data>
+    </node>
+    <node id="BrainCert">
+      <data key="d0">Action</data>
+    </node>
+    <node id="CDLSuite">
+      <data key="d0">Action</data>
+    </node>
+    <node id="CertifyMe">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Check In Pointe">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Cloud Assess">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="CodeSubmit">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Crelate">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Datacruit ATS">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Deel">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Digit.ink">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Dropboard">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Ezekia">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Factorial">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Go1">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Greenhouse">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Hirely">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="HR Cloud">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="IllumiDesk">
+      <data key="d0">Action</data>
+    </node>
+    <node id="InfoVetted">
+      <data key="d0">Action</data>
+    </node>
+    <node id="intelliHR">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Jobtoolz">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Knorish">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="LearningSuite">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Magnet">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Manatal">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Mini Course Generator">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Onbee.app">
+      <data key="d0">Action</data>
+    </node>
+    <node id="onboard">
+      <data key="d0">Action</data>
+    </node>
+    <node id="OnlineCourseHost.com">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Openpaye">
+      <data key="d0">Action</data>
+    </node>
+    <node id="SchoolMaker">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Smart Job Board">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Spark Hire">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Teamtailor">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="TestDome">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Testfuse">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Testlify">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="TRAFFIT">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Ubeya">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Ulama">
+      <data key="d0">Action</data>
+    </node>
+    <node id="uxpertise LMS">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Vervoe">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Virtualbadge.io">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Virtually">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Voyager Infinity">
+      <data key="d0">Action</data>
+    </node>
+    <node id="WorkRamp">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Worksome">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Worksuite">
+      <data key="d0">Action</data>
+    </node>
+    <node id="BirthdayBot">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Gnowbe">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Process Street">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Feedier">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Willo">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Personio">
+      <data key="d0">Action</data>
+    </node>
+    <node id="myInterview">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Airtable">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Twilio">
+      <data key="d0">Action</data>
+    </node>
+    <node id="ActiveCampaign">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Any.do Personal">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Mailchimp">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Telegram">
+      <data key="d0">Action</data>
+    </node>
+    <node id="WhatsApp Notifications">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Microsoft To Do">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="OpenPhone">
+      <data key="d0">Action</data>
+    </node>
+    <node id="ClickUp">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Sub-Zap by Zapier">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Smartsheet">
+      <data key="d0">Action</data>
+    </node>
+    <node id="SurveySparrow">
+      <data key="d0">Action</data>
+    </node>
+    <node id="RepCard">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Facebook Conversions">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Trello">
+      <data key="d0">Action</data>
+    </node>
+    <node id="LinkedIn Conversions">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Jira Software Cloud">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Sierra Interactive">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Zoho Campaigns">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Connecteam">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="HubSpot">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Microsoft Teams">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Webflow">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Google Drive">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Formatter by Zapier">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Google Calendar">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Notion">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Azure Active Directory">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Zapier Manager">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Marketo">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Jira Software Server">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Google Contacts">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Okta">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Rise">
+      <data key="d0">Action</data>
+    </node>
+    <node id="TaskTrain">
+      <data key="d0">Action</data>
+    </node>
+    <node id="WHS Monitor">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Delay by Zapier">
+      <data key="d0">Action</data>
+    </node>
+    <node id="GainKnowHow">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="SuperPath">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Zinc">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="ManageEngine ServiceDesk Plus Cloud">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Pleo">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Freshdesk">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Google Meet">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Discord">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Reach 360">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Constant Contact">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Webhooks by Zapier">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Coursebox LMS">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Microsoft Office 365">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Brevo">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Confluence Cloud">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Basecamp">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Salesforce">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Sage Intacct">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Manifestly Checklists">
+      <data key="d0">Action</data>
+    </node>
+    <node id="SMTP by Zapier">
+      <data key="d0">Action</data>
+    </node>
+    <node id="verifi.email">
+      <data key="d0">Action</data>
+    </node>
+    <node id="RoboRecruiter Application">
+      <data key="d0">Action</data>
+    </node>
+    <node id="BlinkSwag">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Mailshake">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Wave">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Instantly">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Retable">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Flodesk">
+      <data key="d0">Action</data>
+    </node>
+    <node id="MessageMedia SMS">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Zoho Books">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Glide">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Xodo Sign">
+      <data key="d0">Action</data>
+    </node>
+    <node id="LinkedIn">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Hire.Inc">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Introist">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Formstack Documents">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Docusign">
+      <data key="d0">Action</data>
+    </node>
+    <node id="LearnWorlds">
+      <data key="d0">Action</data>
+    </node>
+    <node id="PARiM">
+      <data key="d0">Action</data>
+    </node>
+    <node id="PandaDoc">
+      <data key="d0">Action</data>
+    </node>
+    <node id="iContact">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Linguapop">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Recruit CRM">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Brillium">
+      <data key="d0">Action</data>
+    </node>
+    <node id="TalentLMS">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Teachery">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Casting42">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Spektrix">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Certifier">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Bullhorn CRM">
+      <data key="d0">Action</data>
+    </node>
+    <node id="GoHire">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="PeopleForce">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Ruzuku">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Mentortools">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Gurucan">
+      <data key="d0">Action</data>
+    </node>
+    <node id="SourceWhale">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Microsoft Dynamics 365 CRM">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="17hats">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="LEADGODS">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Teamleader Focus">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Linear">
+      <data key="d0">Action</data>
+    </node>
+    <node id="easyhire">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Elham">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Google Forms">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="ClassDo">
+      <data key="d0">Action</data>
+    </node>
+    <node id="DevSkiller">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="EDlumina">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Tribal Habits LMS">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="TruScholar">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Expiration Reminder">
+      <data key="d0">Action</data>
+    </node>
+    <node id="UpLead">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="hireEZ">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Recruiterflow">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Compass">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Tracker">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Meet Alfred">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Calendly">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Zapier Chrome extension">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Zapier Interfaces">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Contactout">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="OneDrive">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Highrise">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Streak">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="PostgreSQL">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Quickbase">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Nutshell">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Stackby">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Wrike">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Survey2Connect">
+      <data key="d0">Action</data>
+    </node>
+    <node id="SendJim">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Microsoft SharePoint">
+      <data key="d0">Action</data>
+    </node>
+    <node id="ATS Anywhere">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Schedule by Zapier">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Boardon">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Pencil Spaces">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Pinpoint">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Todoist">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Google Tasks">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Jotform">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Expensify">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="CredSure">
+      <data key="d0">Action</data>
+    </node>
+    <node id="ShopHire">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Facebook Pages">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Klaviyo">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Coda">
+      <data key="d0">Action</data>
+    </node>
+    <node id="TinyEmail">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Startquestion">
+      <data key="d0">Action</data>
+    </node>
+    <node id="OfficeMaps">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Senja">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Bonusly">
+      <data key="d0">Action</data>
+    </node>
+    <node id="JobScore">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Baserow">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="JobAdder">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Tanda">
+      <data key="d0">Action</data>
+    </node>
+    <node id="RocketDevs">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Ninja Forms">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Paperform">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="myEZcare">
+      <data key="d0">Action</data>
+    </node>
+    <node id="WPForms">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="systeme.io">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Shopify">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Acumbamail">
+      <data key="d0">Action</data>
+    </node>
+    <node id="CATS">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Email Parser by Zapier">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Sutra">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Tovuti LMS">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Motion">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Skilljar">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="CYPHER Learning">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Learner Community">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Beatview">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Clearbit">
+      <data key="d0">Action</data>
+    </node>
+    <node id="GatewayAPI SMS">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Range">
+      <data key="d0">Action</data>
+    </node>
+    <node id="DocuGenerate">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Niceboard">
+      <data key="d0">Action</data>
+    </node>
+    <node id="GPTZero: Detect AI">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Digest by Zapier">
+      <data key="d0">Action</data>
+    </node>
+    <node id="BodyGraph">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="EmailOctopus">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Zenler">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Kit">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Keap">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="SendFox">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Podia">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Quentn">
+      <data key="d0">Action</data>
+    </node>
+    <node id="AttractWell">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Circle">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Moosend">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Builderall Mailingboss">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Simplero">
+      <data key="d0">Action</data>
+    </node>
+    <node id="CleverReach">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Kartra">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Passion.io">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Zapier Chatbots">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Intercom">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Crisp">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Buffer">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Stripe">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Encharge">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Wizehire">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Keller Williams Command">
+      <data key="d0">Action</data>
+    </node>
+    <node id="BombBomb.com">
+      <data key="d0">Action</data>
+    </node>
+    <node id="kvCORE">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Mailjet">
+      <data key="d0">Action</data>
+    </node>
+    <node id="SMS by Zapier">
+      <data key="d0">Action</data>
+    </node>
+    <node id="ClickSend SMS">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Formplus">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Cognito Forms">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Gravity Forms">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Zoho Forms">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Classe365">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="WS Form">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Wix">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Element451">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Facebook Lead Ads">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Seeqle">
+      <data key="d0">Action</data>
+    </node>
+    <node id="CalendarFix">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Commissionly">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Credly">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Thinkific">
+      <data key="d0">Action</data>
+    </node>
+    <node id="PartnerStack">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Campaign Monitor">
+      <data key="d0">Action</data>
+    </node>
+    <node id="KlickTipp">
+      <data key="d0">Action</data>
+    </node>
+    <node id="NetSuite">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Trainual">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Swordfish.ai">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Connect 365">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Affinity">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Contacts+">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Emitrr">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Cloze">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Reddit">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Holded">
+      <data key="d0">Action</data>
+    </node>
+    <node id="HEU">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Akiflow">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Caraer">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Fireflies.ai">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="SignerX.com">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Wufoo">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Teachable">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Unbounce">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="VideoAsk">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="LearnDash">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Studio Pro">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Jackrabbit Class">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Akada">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="ClayHR">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="FreshBooks">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Amazon Alexa">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Collage HR">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="QRTIGER QR Code">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Benchmark Email">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Convenia">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Pipefy">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Runrun.it">
+      <data key="d0">Action</data>
+    </node>
+    <node id="CourseStorm">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Little Green Light">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Apollo">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Seamless.AI">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="MailerLite Classic">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Instapage">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Growbots">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="LinkedIn Ads">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="RocketReach">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Wiza">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Dante Systems">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Teamup Calendar">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Jibble">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="RevSend">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Timely Time Tracking">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Audienceful">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Common Room">
+      <data key="d0">Action</data>
+    </node>
+    <node id="TrustPulse">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Higher Logic Vanilla">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Ortto">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Memberful">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Plug&amp;Pay">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Paid Memberships Pro">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Tidio">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Workiom">
+      <data key="d0">Action</data>
+    </node>
+    <node id="FormDesigner">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="easy.jobs">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Hibob">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Xledger">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Signable">
+      <data key="d0">Action</data>
+    </node>
+    <node id="PagerDuty">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Juro">
+      <data key="d0">Action</data>
+    </node>
+    <node id="SysAid">
+      <data key="d0">Action</data>
+    </node>
+    <node id="CallRail">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Reddit Lead Ads">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="EdTech Impact">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="involve.me">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Bitly">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Mobile Message">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="FaceUp">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Flatwork ATS">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Cvent">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="SendGrid">
+      <data key="d0">Action</data>
+    </node>
+    <node id="OnceHub">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="CatchApp Bookings">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="tl;dv">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="SuprForms">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Perspective">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="GrowKarma">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Studiocart">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="SmartEmailing">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Instamojo">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="EasyCSV">
+      <data key="d0">Action</data>
+    </node>
+    <node id="ClickFunnels Classic">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Hero Parser">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="SurveyLab">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Accredible Certificates">
+      <data key="d0">Action</data>
+    </node>
+    <node id="AWeber">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Robofy">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Trustpilot">
+      <data key="d0">Action</data>
+    </node>
+    <node id="VBOUT">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Evernote">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Bigin by Zoho CRM">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Dubsado">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Acuity Scheduling">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Onepage">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Uploadcare">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Burst SMS">
+      <data key="d0">Action</data>
+    </node>
+    <node id="SMS Alert">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Facebook Custom Audiences">
+      <data key="d0">Action</data>
+    </node>
+    <node id="GoTo Webinar">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="ClickMeeting">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Moxie">
+      <data key="d0">Action</data>
+    </node>
+    <node id="MobilePages">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="TidyCal">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Pagewheel">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Bucket.io 2.0">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="People HR">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Moxo">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Forms On Fire">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Enalyzer">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="PureSMS">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Giftsenda">
+      <data key="d0">Action</data>
+    </node>
+    <node id="HR Partner">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Palm.hr">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="HRMLabs">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Humanagement">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="itris">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Privyr">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Lanteria HR">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="WooCommerce">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Wet Ink">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Funnel-Tunnel">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="FunnelCockpit">
+      <data key="d0">Action</data>
+    </node>
+    <node id="DreamApply">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Learnyst">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="ShareFile">
+      <data key="d0">Action</data>
+    </node>
+    <node id="BigMarker">
+      <data key="d0">Action</data>
+    </node>
+    <node id="The Events Calendar">
+      <data key="d0">Action</data>
+    </node>
+    <node id="BigCommerce">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Drip">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Zoho Survey">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="StreamYard">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="WebinarNinja">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="PayPal">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Chargebee">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Patreon">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Razorpay">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Magento">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Big Cartel">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Amazon Seller Central">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="WishList Member">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Madgex Job Board">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Hyperstack Certificates">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Convert Forms">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Masteriyo">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Mastermind">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Masterpages">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="MetaMinder">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Metaview">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Act!">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Recruitly">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Livestorm">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Zylvie">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="MyZenTeam">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Riddle Quiz Maker">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Storylane">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Northpass">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Sertifier">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Heyflow">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Mollie">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Paystack">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="GoZen Growth">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Tarvent">
+      <data key="d0">Action</data>
+    </node>
+    <node id="GoodBarber">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="SubHub">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Paythen">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Kennis.shop">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Crove">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Everhour">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Polymer">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Qualiobee">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Facture.net">
+      <data key="d0">Action</data>
+    </node>
+    <node id="QuestionScout">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="RecruitApp.ai">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Parseur">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Rooster">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="eSignatures">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Fathom">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="SmartSearch">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="The Magic Drip">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Force24">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Ceipal">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Talexio">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Mattermost">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Looping by Zapier">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Talk Hiring">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="BrightHR">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Teach 'n Go">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Klaxoon">
+      <data key="d0">Action</data>
+    </node>
+    <node id="CloudTalk">
+      <data key="d0">Action</data>
+    </node>
+    <node id="46elks">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Geckoboard">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Bloom">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Talkie">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="GetProspect">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Transkriptor">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="tousquali">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="edoobox">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Eventbrite">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="POWR Form Builder">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Tutory">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Firefish">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Deadline Funnel">
+      <data key="d0">Action</data>
+    </node>
+    <node id="Demio">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Viterbit">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Snov.io">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Omnify">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="YM Careers">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Yuvo">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Copilot">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Urable">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Blaze.ai">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Aesthetic Record EMR">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Checkout Page">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Zenegy">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="OneNote">
+      <data key="d0">Action</data>
+    </node>
+    <node id="FareHarbor">
+      <data key="d0">Trigger</data>
+    </node>
+    <node id="Hubstaff">
+      <data key="d0">Trigger</data>
+    </node>
+    <edge source="100Hires ATS" target="Shape">
+      <data key="d1">0.014705882352941176</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="100Hires ATS" target="Hireflix">
+      <data key="d1">0.011904761904761904</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Gmail" target="100Hires ATS">
+      <data key="d1">0.017241379310344827</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hireflix" target="Odoo ERP Self Hosted">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hireflix" target="RD Station">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ashby" target="Linear">
+      <data key="d1">0.011764705882352941</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Ashby" target="easyhire">
+      <data key="d1">0.029411764705882353</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="HrFlow.ai" target="HubSpot">
+      <data key="d1">0.010869565217391304</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Small Improvements" target="Google Tasks">
+      <data key="d1">0.02857142857142857</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="monday.com" target="AssessTEAM">
+      <data key="d1">0.010526315789473684</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="monday.com" target="DeleTrain">
+      <data key="d1">0.0125</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="monday.com" target="myInterview">
+      <data key="d1">0.02</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="monday.com" target="Openpaye">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Slack" target="EducateMe">
+      <data key="d1">0.011111111111111112</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Slack" target="Innform">
+      <data key="d1">0.016666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="LeadConnector" target="Testlify">
+      <data key="d1">0.012987012987012988</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Zoho Recruit" target="BlinkSwag">
+      <data key="d1">0.012048192771084338</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Zoho Recruit" target="Mailshake">
+      <data key="d1">0.012048192771084338</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Zoho Recruit" target="Wave">
+      <data key="d1">0.012048192771084338</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Zoho Recruit" target="Retable">
+      <data key="d1">0.012048192771084338</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Zoho Recruit" target="MessageMedia SMS">
+      <data key="d1">0.012048192771084338</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Zoho Recruit" target="Glide">
+      <data key="d1">0.012048192771084338</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Zoho Recruit" target="Xodo Sign">
+      <data key="d1">0.012048192771084338</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Zapier Tables" target="Zapier Interfaces">
+      <data key="d1">0.01818181818181818</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Zapier Tables" target="Zinc">
+      <data key="d1">0.025974025974025976</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Asana" target="Worksuite">
+      <data key="d1">0.01020408163265306</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="8xpand" target="SurveyMonkey">
+      <data key="d1">0.015873015873015872</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="8xpand" target="Clockify">
+      <data key="d1">0.011904761904761904</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="8xpand" target="OnePageCRM">
+      <data key="d1">0.047619047619047616</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="SurveyMonkey" target="Teachfloor">
+      <data key="d1">0.011904761904761904</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Microsoft Excel" target="Datacruit ATS">
+      <data key="d1">0.016666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Microsoft Excel" target="Gnowbe">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Microsoft Excel" target="Onbee.app">
+      <data key="d1">0.016666666666666666</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Microsoft Excel" target="uxpertise LMS">
+      <data key="d1">0.025</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Xero" target="EdApp">
+      <data key="d1">0.0625</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Breezy HR" target="Feedier">
+      <data key="d1">0.011363636363636364</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Breezy HR" target="SurveySparrow">
+      <data key="d1">0.011363636363636364</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Breezy HR" target="RepCard">
+      <data key="d1">0.011363636363636364</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Breezy HR" target="Zoho Campaigns">
+      <data key="d1">0.011363636363636364</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Breezy HR" target="Connecteam">
+      <data key="d1">0.011363636363636364</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Clockify" target="Deel">
+      <data key="d1">0.14285714285714285</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Email by Zapier" target="InfoVetted">
+      <data key="d1">0.010752688172043012</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Email by Zapier" target="Linguapop">
+      <data key="d1">0.16666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="InfluencerSoft" target="Burst SMS">
+      <data key="d1">0.06666666666666667</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="InfluencerSoft" target="SMS Alert">
+      <data key="d1">0.06666666666666667</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="InfluencerSoft" target="Facebook Custom Audiences">
+      <data key="d1">0.016666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="InfluencerSoft" target="GoTo Webinar">
+      <data key="d1">0.06666666666666667</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="InfluencerSoft" target="ClickMeeting">
+      <data key="d1">0.06666666666666667</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="InfluencerSoft" target="SendFox">
+      <data key="d1">0.013333333333333334</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="InfluencerSoft" target="Moxie">
+      <data key="d1">0.06666666666666667</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="LifterLMS" target="ShareFile">
+      <data key="d1">0.0136986301369863</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="LifterLMS" target="BigMarker">
+      <data key="d1">0.0136986301369863</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="LifterLMS" target="The Events Calendar">
+      <data key="d1">0.0136986301369863</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="LifterLMS" target="BigCommerce">
+      <data key="d1">0.0136986301369863</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Teachfloor" target="SurveyMonkey">
+      <data key="d1">0.016666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Teachfloor" target="TinyEmail">
+      <data key="d1">0.0125</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Teachfloor" target="Jotform">
+      <data key="d1">0.01</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Xobin" target="Xobin">
+      <data key="d1">0.011111111111111112</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Xobin" target="Stackby">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Zoho People" target="Survey2Connect">
+      <data key="d1">0.02857142857142857</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Zoho People" target="SendJim">
+      <data key="d1">0.02857142857142857</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Disco" target="Audienceful">
+      <data key="d1">0.03571428571428571</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Disco" target="Common Room">
+      <data key="d1">0.03571428571428571</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Disco" target="TrustPulse">
+      <data key="d1">0.03571428571428571</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="EdApp" target="CredSure">
+      <data key="d1">0.05</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="EdApp" target="Quickbase">
+      <data key="d1">0.016666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="EducateMe" target="EducateMe">
+      <data key="d1">0.041666666666666664</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Innform" target="Trello">
+      <data key="d1">0.010101010101010102</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="BCdiploma" target="BCdiploma">
+      <data key="d1">0.045454545454545456</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="BrainCert" target="Intercom">
+      <data key="d1">0.0625</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="BrainCert" target="Crisp">
+      <data key="d1">0.0625</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="BrainCert" target="Buffer">
+      <data key="d1">0.015625</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="BrainCert" target="Stripe">
+      <data key="d1">0.015625</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="BrainCert" target="TinyEmail">
+      <data key="d1">0.015625</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Crelate" target="Facebook Pages">
+      <data key="d1">0.010752688172043012</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Crelate" target="Swordfish.ai">
+      <data key="d1">0.03225806451612903</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Crelate" target="Connect 365">
+      <data key="d1">0.03225806451612903</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Crelate" target="Affinity">
+      <data key="d1">0.03225806451612903</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Crelate" target="Contacts+">
+      <data key="d1">0.016129032258064516</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Crelate" target="Emitrr">
+      <data key="d1">0.03225806451612903</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Crelate" target="Cloze">
+      <data key="d1">0.03225806451612903</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Crelate" target="Reddit">
+      <data key="d1">0.016129032258064516</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Datacruit ATS" target="SMTP by Zapier">
+      <data key="d1">0.08333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Deel" target="Jibble">
+      <data key="d1">0.03571428571428571</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Deel" target="RevSend">
+      <data key="d1">0.03571428571428571</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dropboard" target="Workiom">
+      <data key="d1">0.08333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ezekia" target="Campaign Monitor">
+      <data key="d1">0.018518518518518517</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ezekia" target="Bitly">
+      <data key="d1">0.05555555555555555</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Factorial" target="Holded">
+      <data key="d1">0.010752688172043012</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Factorial" target="Akiflow">
+      <data key="d1">0.016129032258064516</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Go1" target="Go1">
+      <data key="d1">0.0125</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Go1" target="SendGrid">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Go1" target="Formstack Documents">
+      <data key="d1">0.016666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Go1" target="SuperPath">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Greenhouse" target="Beatview">
+      <data key="d1">0.015873015873015872</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Greenhouse" target="Clearbit">
+      <data key="d1">0.015873015873015872</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Greenhouse" target="GatewayAPI SMS">
+      <data key="d1">0.015873015873015872</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Greenhouse" target="Range">
+      <data key="d1">0.015873015873015872</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Greenhouse" target="DocuGenerate">
+      <data key="d1">0.015873015873015872</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Greenhouse" target="Niceboard">
+      <data key="d1">0.015873015873015872</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Greenhouse" target="GPTZero: Detect AI">
+      <data key="d1">0.015873015873015872</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hirely" target="Zoho Mail">
+      <data key="d1">0.017857142857142856</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hirely" target="Facebook Conversions">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hirely" target="LinkedIn Conversions">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="HR Cloud" target="PARiM">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="IllumiDesk" target="LinkedIn">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="InfoVetted" target="InfoVetted">
+      <data key="d1">0.03225806451612903</data>
+      <data key="d2">8</data>
+    </edge>
+    <edge source="intelliHR" target="Digest by Zapier">
+      <data key="d1">0.013513513513513514</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="intelliHR" target="intelliHR">
+      <data key="d1">0.010810810810810811</data>
+      <data key="d2">10</data>
+    </edge>
+    <edge source="intelliHR" target="Bonusly">
+      <data key="d1">0.013513513513513514</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="intelliHR" target="TaskTrain">
+      <data key="d1">0.013513513513513514</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="intelliHR" target="Sage Intacct">
+      <data key="d1">0.012285012285012284</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Jobtoolz" target="Teamleader Focus">
+      <data key="d1">0.012987012987012988</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jobtoolz" target="Facebook Pages">
+      <data key="d1">0.015151515151515152</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Knorish" target="Kit">
+      <data key="d1">0.011363636363636364</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Knorish" target="Privyr">
+      <data key="d1">0.045454545454545456</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Knorish" target="Zoho Books">
+      <data key="d1">0.022727272727272728</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="LearningSuite" target="Acuity Scheduling">
+      <data key="d1">0.024390243902439025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="LearningSuite" target="CleverReach">
+      <data key="d1">0.012195121951219513</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Magnet" target="Hyperstack Certificates">
+      <data key="d1">0.14285714285714285</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Magnet" target="Accredible Certificates">
+      <data key="d1">0.012987012987012988</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mini Course Generator" target="Jotform">
+      <data key="d1">0.011111111111111112</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mini Course Generator" target="Certifier">
+      <data key="d1">0.011111111111111112</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mini Course Generator" target="Google Forms">
+      <data key="d1">0.018518518518518517</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mini Course Generator" target="Shopify">
+      <data key="d1">0.013888888888888888</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mini Course Generator" target="Acumbamail">
+      <data key="d1">0.013888888888888888</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="OnlineCourseHost.com" target="Acumbamail">
+      <data key="d1">0.0125</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="OnlineCourseHost.com" target="VBOUT">
+      <data key="d1">0.0125</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="OnlineCourseHost.com" target="Mollie">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="OnlineCourseHost.com" target="Trustpilot">
+      <data key="d1">0.0125</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="OnlineCourseHost.com" target="Gravity Forms">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="OnlineCourseHost.com" target="Paystack">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="OnlineCourseHost.com" target="GoZen Growth">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="OnlineCourseHost.com" target="Tarvent">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Smart Job Board" target="EmailOctopus">
+      <data key="d1">0.02</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Smart Job Board" target="Marketo">
+      <data key="d1">0.05</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Spark Hire" target="Element451">
+      <data key="d1">0.058823529411764705</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Spark Hire" target="Microsoft To Do">
+      <data key="d1">0.014705882352941176</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Teamtailor" target="HEU">
+      <data key="d1">0.010256410256410256</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Teamtailor" target="Klaxoon">
+      <data key="d1">0.015384615384615385</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Teamtailor" target="CloudTalk">
+      <data key="d1">0.015384615384615385</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Teamtailor" target="46elks">
+      <data key="d1">0.015384615384615385</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Teamtailor" target="Geckoboard">
+      <data key="d1">0.015384615384615385</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Teamtailor" target="eSignatures">
+      <data key="d1">0.015384615384615385</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="TestDome" target="Google Chat">
+      <data key="d1">0.015384615384615385</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="TestDome" target="Sub-Zap by Zapier">
+      <data key="d1">0.02857142857142857</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Testlify" target="Delay by Zapier">
+      <data key="d1">0.014285714285714285</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="TRAFFIT" target="SurveyLab">
+      <data key="d1">0.047619047619047616</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ubeya" target="WhatsApp Notifications">
+      <data key="d1">0.017543859649122806</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ulama" target="Sub-Zap by Zapier">
+      <data key="d1">0.01020408163265306</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ulama" target="Deadline Funnel">
+      <data key="d1">0.07142857142857142</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="uxpertise LMS" target="Microsoft Dynamics 365 CRM">
+      <data key="d1">0.04081632653061224</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="uxpertise LMS" target="Webhooks by Zapier">
+      <data key="d1">0.03571428571428571</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Vervoe" target="SMS by Zapier">
+      <data key="d1">0.015151515151515152</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Vervoe" target="ClickSend SMS">
+      <data key="d1">0.025974025974025976</data>
+      <data key="d2">4</data>
+    </edge>
+    <edge source="Worksome" target="QuickBooks Online">
+      <data key="d1">0.013888888888888888</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Worksome" target="Xero">
+      <data key="d1">0.012345679012345678</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Worksome" target="Todoist">
+      <data key="d1">0.018518518518518517</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="BirthdayBot" target="HR Cloud">
+      <data key="d1">0.03571428571428571</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Process Street" target="BambooHR">
+      <data key="d1">0.018518518518518517</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Willo" target="CodeSubmit">
+      <data key="d1">0.010526315789473684</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Personio" target="When I Work">
+      <data key="d1">0.019230769230769232</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Personio" target="Zinc">
+      <data key="d1">0.07142857142857142</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="myInterview" target="Zoho Mail">
+      <data key="d1">0.012987012987012988</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="myInterview" target="Motion">
+      <data key="d1">0.015151515151515152</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Airtable" target="Elham">
+      <data key="d1">0.011111111111111112</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Airtable" target="Worksuite">
+      <data key="d1">0.011904761904761904</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Mailchimp" target="Brillium">
+      <data key="d1">0.017094017094017096</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Microsoft To Do" target="Workboard">
+      <data key="d1">0.02564102564102564</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="OpenPhone" target="Breezy HR">
+      <data key="d1">0.024390243902439025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Smartsheet" target="When I Work">
+      <data key="d1">0.019230769230769232</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Trello" target="AssessTEAM">
+      <data key="d1">0.010526315789473684</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Trello" target="Check In Pointe">
+      <data key="d1">0.046153846153846156</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Jira Software Cloud" target="PeopleForce">
+      <data key="d1">0.25</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Connecteam" target="Zoho People">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="HubSpot" target="IllumiDesk">
+      <data key="d1">0.01282051282051282</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Webflow" target="Teachfloor">
+      <data key="d1">0.011904761904761904</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Google Drive" target="Zoho People">
+      <data key="d1">0.015</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Formatter by Zapier" target="Formatter by Zapier">
+      <data key="d1">0.015037593984962405</data>
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Formatter by Zapier" target="Commissionly">
+      <data key="d1">0.05263157894736842</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Formatter by Zapier" target="WHS Monitor">
+      <data key="d1">0.017543859649122806</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Formatter by Zapier" target="myInterview">
+      <data key="d1">0.010526315789473684</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Formatter by Zapier" target="OfficeMaps">
+      <data key="d1">0.013157894736842105</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Google Calendar" target="Expiration Reminder">
+      <data key="d1">0.0125</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Google Calendar" target="Ubeya">
+      <data key="d1">0.013888888888888888</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Notion" target="Ashby">
+      <data key="d1">0.02</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Notion" target="WorkRamp">
+      <data key="d1">0.015384615384615385</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Azure Active Directory" target="BambooHR">
+      <data key="d1">0.018518518518518517</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jira Software Server" target="Jira Software Server">
+      <data key="d1">0.25</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jira Software Server" target="Workboard">
+      <data key="d1">0.01282051282051282</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Google Contacts" target="AssessTEAM">
+      <data key="d1">0.013157894736842105</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Google Contacts" target="BirthdayBot">
+      <data key="d1">0.03571428571428571</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Google Contacts" target="EdApp">
+      <data key="d1">0.015625</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Delay by Zapier" target="Startquestion">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">7</data>
+    </edge>
+    <edge source="Delay by Zapier" target="Casting42">
+      <data key="d1">0.015873015873015872</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Delay by Zapier" target="OfficeMaps">
+      <data key="d1">0.017857142857142856</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Delay by Zapier" target="Senja">
+      <data key="d1">0.07142857142857142</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Delay by Zapier" target="Testlify">
+      <data key="d1">0.01020408163265306</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="GainKnowHow" target="Startquestion">
+      <data key="d1">0.06666666666666667</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="SuperPath" target="Bonusly">
+      <data key="d1">0.16666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Zinc" target="JobScore">
+      <data key="d1">0.041666666666666664</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Zinc" target="Personio">
+      <data key="d1">0.0625</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pleo" target="Pleo">
+      <data key="d1">0.08</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pleo" target="Deel">
+      <data key="d1">0.05714285714285714</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Google Meet" target="RocketDevs">
+      <data key="d1">1.0</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Discord" target="Discord">
+      <data key="d1">0.017857142857142856</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Reach 360" target="CertifyMe">
+      <data key="d1">0.05263157894736842</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Constant Contact" target="CDLSuite">
+      <data key="d1">0.07692307692307693</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Webhooks by Zapier" target="Hirely">
+      <data key="d1">0.01818181818181818</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Coursebox LMS" target="Coursebox LMS">
+      <data key="d1">0.3333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Microsoft Office 365" target="BirthdayBot">
+      <data key="d1">0.015873015873015872</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Microsoft Office 365" target="Formatter by Zapier">
+      <data key="d1">0.010582010582010581</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Basecamp" target="CodeSubmit">
+      <data key="d1">0.05263157894736842</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Salesforce" target="Go1">
+      <data key="d1">0.011111111111111112</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Salesforce" target="Innform">
+      <data key="d1">0.027777777777777776</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Salesforce" target="Sutra">
+      <data key="d1">0.1111111111111111</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Salesforce" target="Tovuti LMS">
+      <data key="d1">0.05555555555555555</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="RoboRecruiter Application" target="RoboRecruiter Application">
+      <data key="d1">0.029411764705882353</data>
+      <data key="d2">8</data>
+    </edge>
+    <edge source="RoboRecruiter Application" target="Bullhorn CRM">
+      <data key="d1">0.01764705882352941</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Instantly" target="Crelate">
+      <data key="d1">0.01282051282051282</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Flodesk" target="Mini Course Generator">
+      <data key="d1">0.01282051282051282</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Flodesk" target="Ruzuku">
+      <data key="d1">0.016666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hire.Inc" target="Hire.Inc">
+      <data key="d1">0.05</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Introist" target="Jira Service Management">
+      <data key="d1">0.010416666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Introist" target="Twilio">
+      <data key="d1">0.011363636363636364</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Introist" target="Okta">
+      <data key="d1">0.041666666666666664</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Formstack Documents" target="Go1">
+      <data key="d1">0.05</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Docusign" target="DeleTrain">
+      <data key="d1">0.041666666666666664</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="LearnWorlds" target="intelliHR">
+      <data key="d1">0.04</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="PandaDoc" target="CDLSuite">
+      <data key="d1">0.015384615384615385</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="PandaDoc" target="EdApp">
+      <data key="d1">0.025</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="iContact" target="LifterLMS">
+      <data key="d1">0.011627906976744186</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Recruit CRM" target="Testfuse">
+      <data key="d1">0.02</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Recruit CRM" target="Recruit CRM">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Recruit CRM" target="Ubeya">
+      <data key="d1">0.011111111111111112</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Brillium" target="OneDrive">
+      <data key="d1">0.020833333333333332</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Brillium" target="Confluence Cloud">
+      <data key="d1">0.03125</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Brillium" target="Credly">
+      <data key="d1">0.0625</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="TalentLMS" target="BCdiploma">
+      <data key="d1">0.06060606060606061</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="TalentLMS" target="CertifyMe">
+      <data key="d1">0.017543859649122806</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Teachery" target="Virtualbadge.io">
+      <data key="d1">0.038461538461538464</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Casting42" target="SignerX.com">
+      <data key="d1">0.05263157894736842</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Spektrix" target="Spektrix">
+      <data key="d1">0.10714285714285714</data>
+      <data key="d2">6</data>
+    </edge>
+    <edge source="Bullhorn CRM" target="CodeSubmit">
+      <data key="d1">0.013157894736842105</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bullhorn CRM" target="Bullhorn CRM">
+      <data key="d1">0.05</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Bullhorn CRM" target="RoboRecruiter Application">
+      <data key="d1">0.015625</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="GoHire" target="Telegram">
+      <data key="d1">0.010416666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="PeopleForce" target="Everhour">
+      <data key="d1">0.034482758620689655</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ruzuku" target="Benchmark Email">
+      <data key="d1">0.020833333333333332</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Gurucan" target="CertifyMe">
+      <data key="d1">0.010526315789473684</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Gurucan" target="ActiveCampaign">
+      <data key="d1">0.011320754716981131</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="SourceWhale" target="The Magic Drip">
+      <data key="d1">0.125</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="SourceWhale" target="Force24">
+      <data key="d1">0.25</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="SourceWhale" target="SourceWhale">
+      <data key="d1">0.03571428571428571</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="17hats" target="LEADGODS">
+      <data key="d1">0.016666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Elham" target="Elham">
+      <data key="d1">0.3333333333333333</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Google Forms" target="ClassDo">
+      <data key="d1">0.0196078431372549</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Google Forms" target="DevSkiller">
+      <data key="d1">0.0196078431372549</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Google Forms" target="TruScholar">
+      <data key="d1">0.0196078431372549</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="DevSkiller" target="Microsoft Teams">
+      <data key="d1">0.011904761904761904</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tribal Habits LMS" target="Tribal Habits LMS">
+      <data key="d1">0.031746031746031744</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Expiration Reminder" target="Freshdesk">
+      <data key="d1">0.16666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="UpLead" target="Ashby">
+      <data key="d1">0.06666666666666667</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="hireEZ" target="Recruiterflow">
+      <data key="d1">0.06666666666666667</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="hireEZ" target="Compass">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="hireEZ" target="Tracker">
+      <data key="d1">0.06666666666666667</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="hireEZ" target="Meet Alfred">
+      <data key="d1">0.06666666666666667</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Recruiterflow" target="Hireflix">
+      <data key="d1">0.047619047619047616</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Calendly" target="myInterview">
+      <data key="d1">0.01</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Calendly" target="Ulama">
+      <data key="d1">0.013636363636363636</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Zapier Chrome extension" target="Ashby">
+      <data key="d1">0.05</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Contactout" target="Ashby">
+      <data key="d1">0.016666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Contactout" target="SourceWhale">
+      <data key="d1">0.023809523809523808</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Highrise" target="DeleTrain">
+      <data key="d1">0.125</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Streak" target="Workboard">
+      <data key="d1">0.01282051282051282</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="PostgreSQL" target="Teamtailor">
+      <data key="d1">0.01818181818181818</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Quickbase" target="EdApp">
+      <data key="d1">0.0625</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Nutshell" target="Expiration Reminder">
+      <data key="d1">0.1</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Stackby" target="Xobin">
+      <data key="d1">0.1111111111111111</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wrike" target="AssessTEAM">
+      <data key="d1">0.03508771929824561</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Microsoft SharePoint" target="Zinc">
+      <data key="d1">0.047619047619047616</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="ATS Anywhere" target="Bullhorn CRM">
+      <data key="d1">0.0125</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Schedule by Zapier" target="Boardon">
+      <data key="d1">0.09090909090909091</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Schedule by Zapier" target="Digit.ink">
+      <data key="d1">0.01818181818181818</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Schedule by Zapier" target="Pencil Spaces">
+      <data key="d1">0.09090909090909091</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Schedule by Zapier" target="Small Improvements">
+      <data key="d1">0.015151515151515152</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Pinpoint" target="Hire.Inc">
+      <data key="d1">0.010526315789473684</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pinpoint" target="Microsoft To Do">
+      <data key="d1">0.013157894736842105</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Google Tasks" target="Workboard">
+      <data key="d1">0.02564102564102564</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jotform" target="verifi.email">
+      <data key="d1">0.01282051282051282</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Expensify" target="BambooHR">
+      <data key="d1">0.018518518518518517</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="ShopHire" target="Coda">
+      <data key="d1">0.023809523809523808</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="ShopHire" target="TinyEmail">
+      <data key="d1">0.011904761904761904</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Startquestion" target="Small Improvements">
+      <data key="d1">0.016666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Startquestion" target="TRAFFIT">
+      <data key="d1">0.05</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="OfficeMaps" target="OfficeMaps">
+      <data key="d1">0.25</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bonusly" target="Small Improvements">
+      <data key="d1">0.08333333333333333</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="JobScore" target="HR Cloud">
+      <data key="d1">0.019230769230769232</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="JobScore" target="JobScore">
+      <data key="d1">0.05128205128205128</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Baserow" target="BambooHR">
+      <data key="d1">0.018518518518518517</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="JobAdder" target="intelliHR">
+      <data key="d1">0.013333333333333334</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="JobAdder" target="Tanda">
+      <data key="d1">0.16666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tanda" target="Startquestion">
+      <data key="d1">0.013333333333333334</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tanda" target="Trainual">
+      <data key="d1">0.06666666666666667</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="RocketDevs" target="Google Meet">
+      <data key="d1">0.047619047619047616</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ninja Forms" target="Hirely">
+      <data key="d1">0.01818181818181818</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ninja Forms" target="Vervoe">
+      <data key="d1">0.013333333333333334</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Paperform" target="Magnet">
+      <data key="d1">0.023809523809523808</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Paperform" target="myEZcare">
+      <data key="d1">0.023809523809523808</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="WPForms" target="myEZcare">
+      <data key="d1">0.010416666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="systeme.io" target="Ulama">
+      <data key="d1">0.015151515151515152</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Shopify" target="Zapier Interfaces">
+      <data key="d1">0.011111111111111112</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="CATS" target="hireEZ">
+      <data key="d1">0.25</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Email Parser by Zapier" target="Bizneo HR">
+      <data key="d1">0.045454545454545456</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Email Parser by Zapier" target="Datacruit ATS">
+      <data key="d1">0.030303030303030304</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Email Parser by Zapier" target="SourceWhale">
+      <data key="d1">0.012987012987012988</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sutra" target="Drip">
+      <data key="d1">0.023809523809523808</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Sutra" target="Flodesk">
+      <data key="d1">0.01098901098901099</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Tovuti LMS" target="Accredible Certificates">
+      <data key="d1">0.03787878787878788</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="Tovuti LMS" target="Sertifier">
+      <data key="d1">0.041666666666666664</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Tovuti LMS" target="Coursebox LMS">
+      <data key="d1">0.027777777777777776</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tovuti LMS" target="Microsoft SharePoint">
+      <data key="d1">0.023809523809523808</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Skilljar" target="BCdiploma">
+      <data key="d1">0.09090909090909091</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="CYPHER Learning" target="BCdiploma">
+      <data key="d1">0.09090909090909091</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Learner Community" target="BCdiploma">
+      <data key="d1">0.09090909090909091</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="BodyGraph" target="Zenler">
+      <data key="d1">0.013513513513513514</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="BodyGraph" target="Podia">
+      <data key="d1">0.013513513513513514</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="BodyGraph" target="AttractWell">
+      <data key="d1">0.02702702702702703</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="BodyGraph" target="Moosend">
+      <data key="d1">0.013513513513513514</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="BodyGraph" target="Builderall Mailingboss">
+      <data key="d1">0.013513513513513514</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="BodyGraph" target="Simplero">
+      <data key="d1">0.02702702702702703</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="BodyGraph" target="CleverReach">
+      <data key="d1">0.013513513513513514</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Keap" target="LEADGODS">
+      <data key="d1">0.014285714285714285</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="SendFox" target="InfluencerSoft">
+      <data key="d1">0.016666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Podia" target="Virtually">
+      <data key="d1">0.015873015873015872</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Quentn" target="Ruzuku">
+      <data key="d1">0.06666666666666667</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Circle" target="LEADGODS">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Kartra" target="EdApp">
+      <data key="d1">0.015625</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Passion.io" target="BodyGraph">
+      <data key="d1">0.5</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Zapier Chatbots" target="BodyGraph">
+      <data key="d1">0.5</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Intercom" target="Mini Course Generator">
+      <data key="d1">0.07692307692307693</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Encharge" target="BrainCert">
+      <data key="d1">0.014705882352941176</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Encharge" target="Gurucan">
+      <data key="d1">0.017857142857142856</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wizehire" target="Keller Williams Command">
+      <data key="d1">0.022727272727272728</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wizehire" target="Sierra Interactive">
+      <data key="d1">0.011363636363636364</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wizehire" target="BombBomb.com">
+      <data key="d1">0.022727272727272728</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wizehire" target="CATS">
+      <data key="d1">0.022727272727272728</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wizehire" target="kvCORE">
+      <data key="d1">0.011363636363636364</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Wizehire" target="Mailjet">
+      <data key="d1">0.011363636363636364</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Wizehire" target="Moosend">
+      <data key="d1">0.011363636363636364</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Formplus" target="Breezy HR">
+      <data key="d1">0.024390243902439025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Cognito Forms" target="GoHire">
+      <data key="d1">0.010416666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Cognito Forms" target="hireEZ">
+      <data key="d1">0.0625</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Zoho Forms" target="Classe365">
+      <data key="d1">0.1111111111111111</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Classe365" target="TalentLMS">
+      <data key="d1">0.03571428571428571</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="WS Form" target="Breezy HR">
+      <data key="d1">0.024390243902439025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wix" target="EDlumina">
+      <data key="d1">0.016666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wix" target="EducateMe">
+      <data key="d1">0.016666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Element451" target="Spark Hire">
+      <data key="d1">0.09090909090909091</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Facebook Lead Ads" target="Seeqle">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="CalendarFix" target="Breezy HR">
+      <data key="d1">0.024390243902439025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Thinkific" target="Brillium">
+      <data key="d1">0.024691358024691357</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Thinkific" target="CertifyMe">
+      <data key="d1">0.011695906432748537</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Thinkific" target="Virtualbadge.io">
+      <data key="d1">0.01282051282051282</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="PartnerStack" target="Brillium">
+      <data key="d1">0.1111111111111111</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Campaign Monitor" target="Brillium">
+      <data key="d1">0.1111111111111111</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="KlickTipp" target="Mentortools">
+      <data key="d1">0.020202020202020204</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Swordfish.ai" target="Formatter by Zapier">
+      <data key="d1">0.015873015873015872</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Caraer" target="WhatsApp Notifications">
+      <data key="d1">0.05263157894736842</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fireflies.ai" target="Caraer">
+      <data key="d1">0.3333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wufoo" target="Spark Hire">
+      <data key="d1">0.010101010101010102</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wufoo" target="TestDome">
+      <data key="d1">0.011111111111111112</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Teachable" target="Virtually">
+      <data key="d1">0.011904761904761904</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Unbounce" target="Enquiry Tracker">
+      <data key="d1">0.019230769230769232</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Unbounce" target="myEZcare">
+      <data key="d1">0.01282051282051282</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="VideoAsk" target="GoHire">
+      <data key="d1">0.010416666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="LearnDash" target="CertifyMe">
+      <data key="d1">0.02631578947368421</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="LearnDash" target="Virtualbadge.io">
+      <data key="d1">0.019230769230769232</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Studio Pro" target="Check In Pointe">
+      <data key="d1">0.07692307692307693</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Jackrabbit Class" target="Check In Pointe">
+      <data key="d1">0.07692307692307693</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Akada" target="Check In Pointe">
+      <data key="d1">0.07692307692307693</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="ClayHR" target="FreshBooks">
+      <data key="d1">0.058823529411764705</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="FreshBooks" target="DeleTrain">
+      <data key="d1">0.125</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Amazon Alexa" target="Cloud Assess">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Amazon Alexa" target="Expiration Reminder">
+      <data key="d1">0.02</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Amazon Alexa" target="Hirely">
+      <data key="d1">0.01818181818181818</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Amazon Alexa" target="Knorish">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Amazon Alexa" target="SourceWhale">
+      <data key="d1">0.02857142857142857</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Collage HR" target="QRTIGER QR Code">
+      <data key="d1">0.1</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Collage HR" target="Benchmark Email">
+      <data key="d1">0.05</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Convenia" target="Pipefy">
+      <data key="d1">0.029411764705882353</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Convenia" target="Runrun.it">
+      <data key="d1">0.014705882352941176</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="CourseStorm" target="Spektrix">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="CourseStorm" target="Little Green Light">
+      <data key="d1">0.1</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="CourseStorm" target="Constant Contact">
+      <data key="d1">0.02</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Apollo" target="SourceWhale">
+      <data key="d1">0.017857142857142856</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Seamless.AI" target="Crelate">
+      <data key="d1">0.01282051282051282</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Instapage" target="myEZcare">
+      <data key="d1">0.011111111111111112</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Growbots" target="Crelate">
+      <data key="d1">0.01282051282051282</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="LinkedIn Ads" target="Hirely">
+      <data key="d1">0.015151515151515152</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="LinkedIn Ads" target="TestGorilla">
+      <data key="d1">0.013888888888888888</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="LinkedIn Ads" target="Vervoe">
+      <data key="d1">0.011111111111111112</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="RocketReach" target="Crelate">
+      <data key="d1">0.01282051282051282</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Wiza" target="Crelate">
+      <data key="d1">0.01282051282051282</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Dante Systems" target="Teamup Calendar">
+      <data key="d1">0.5</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Jibble" target="Zoho People">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Timely Time Tracking" target="Deel">
+      <data key="d1">0.14285714285714285</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ortto" target="Disco">
+      <data key="d1">0.047619047619047616</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Memberful" target="Disco">
+      <data key="d1">0.047619047619047616</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Plug&amp;Pay" target="Disco">
+      <data key="d1">0.015873015873015872</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Plug&amp;Pay" target="TestGorilla">
+      <data key="d1">0.013888888888888888</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Paid Memberships Pro" target="Disco">
+      <data key="d1">0.047619047619047616</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tidio" target="DriverReach">
+      <data key="d1">0.019230769230769232</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="FormDesigner" target="Dropboard">
+      <data key="d1">0.16666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="easy.jobs" target="Notion">
+      <data key="d1">0.015151515151515152</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hibob" target="Xledger">
+      <data key="d1">0.01098901098901099</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hibob" target="Signable">
+      <data key="d1">0.01098901098901099</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hibob" target="PagerDuty">
+      <data key="d1">0.01098901098901099</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hibob" target="Juro">
+      <data key="d1">0.01098901098901099</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hibob" target="SysAid">
+      <data key="d1">0.01098901098901099</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="CallRail" target="EDlumina">
+      <data key="d1">0.16666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Reddit Lead Ads" target="EDlumina">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="EdTech Impact" target="Salesforce">
+      <data key="d1">0.037037037037037035</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="involve.me" target="myEZcare">
+      <data key="d1">0.015151515151515152</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mobile Message" target="Ezekia">
+      <data key="d1">0.038461538461538464</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="FaceUp" target="Factorial">
+      <data key="d1">0.0625</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Flatwork ATS" target="Formatter by Zapier">
+      <data key="d1">0.011904761904761904</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Cvent" target="Gnowbe">
+      <data key="d1">0.5</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="OnceHub" target="Greenhouse">
+      <data key="d1">0.017543859649122806</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="CatchApp Bookings" target="Greenhouse">
+      <data key="d1">0.017543859649122806</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="tl;dv" target="Greenhouse">
+      <data key="d1">0.017543859649122806</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="SuprForms" target="Greenhouse">
+      <data key="d1">0.017543859649122806</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Perspective" target="onboard">
+      <data key="d1">0.01818181818181818</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="GrowKarma" target="Kit">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Studiocart" target="Gurucan">
+      <data key="d1">0.03571428571428571</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="SmartEmailing" target="Gurucan">
+      <data key="d1">0.017857142857142856</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Instamojo" target="Gurucan">
+      <data key="d1">0.03571428571428571</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="EasyCSV" target="Gurucan">
+      <data key="d1">0.03571428571428571</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="ClickFunnels Classic" target="Ulama">
+      <data key="d1">0.010101010101010102</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hero Parser" target="TRAFFIT">
+      <data key="d1">0.25</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="AWeber" target="SchoolMaker">
+      <data key="d1">0.017241379310344827</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Robofy" target="Zapier Tables">
+      <data key="d1">0.024390243902439025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Evernote" target="Workboard">
+      <data key="d1">0.02564102564102564</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bigin by Zoho CRM" target="Zoho People">
+      <data key="d1">0.025</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Dubsado" target="Worksuite">
+      <data key="d1">0.07142857142857142</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Acuity Scheduling" target="LifterLMS">
+      <data key="d1">0.011627906976744186</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Onepage" target="Hirely">
+      <data key="d1">0.01818181818181818</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Onepage" target="onboard">
+      <data key="d1">0.04</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Uploadcare" target="HrFlow.ai">
+      <data key="d1">0.14285714285714285</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="MobilePages" target="InfluencerSoft">
+      <data key="d1">0.016666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="TidyCal" target="InfluencerSoft">
+      <data key="d1">0.016666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pagewheel" target="InfluencerSoft">
+      <data key="d1">0.016666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bucket.io 2.0" target="InfluencerSoft">
+      <data key="d1">0.016666666666666666</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="People HR" target="Moxo">
+      <data key="d1">0.029411764705882353</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="People HR" target="Forms On Fire">
+      <data key="d1">0.029411764705882353</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="People HR" target="Manifestly Checklists">
+      <data key="d1">0.0196078431372549</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="People HR" target="Enalyzer">
+      <data key="d1">0.029411764705882353</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="People HR" target="Rise">
+      <data key="d1">0.014705882352941176</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="People HR" target="PureSMS">
+      <data key="d1">0.029411764705882353</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="People HR" target="ManageEngine ServiceDesk Plus Cloud">
+      <data key="d1">0.014705882352941176</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="People HR" target="Reach 360">
+      <data key="d1">0.014705882352941176</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="People HR" target="Giftsenda">
+      <data key="d1">0.029411764705882353</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Enalyzer" target="Workable">
+      <data key="d1">0.0136986301369863</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="HR Partner" target="InfoVetted">
+      <data key="d1">0.03225806451612903</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Palm.hr" target="InfoVetted">
+      <data key="d1">0.03225806451612903</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="HRMLabs" target="InfoVetted">
+      <data key="d1">0.03225806451612903</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Humanagement" target="InfoVetted">
+      <data key="d1">0.03225806451612903</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="itris" target="Microsoft Outlook">
+      <data key="d1">0.014705882352941176</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lanteria HR" target="EasyCSV">
+      <data key="d1">0.07692307692307693</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Lanteria HR" target="Microsoft SharePoint">
+      <data key="d1">0.01098901098901099</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="WooCommerce" target="Magnet">
+      <data key="d1">0.01282051282051282</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="WooCommerce" target="Wet Ink">
+      <data key="d1">0.07692307692307693</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Funnel-Tunnel" target="LearningSuite">
+      <data key="d1">0.013888888888888888</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="FunnelCockpit" target="Mentortools">
+      <data key="d1">0.015151515151515152</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="DreamApply" target="LearningSuite">
+      <data key="d1">0.013888888888888888</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Learnyst" target="AWeber">
+      <data key="d1">0.011363636363636364</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Learnyst" target="Bigin by Zoho CRM">
+      <data key="d1">0.022727272727272728</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Zoho Survey" target="LifterLMS">
+      <data key="d1">0.011627906976744186</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="StreamYard" target="LifterLMS">
+      <data key="d1">0.011627906976744186</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="WebinarNinja" target="LifterLMS">
+      <data key="d1">0.011627906976744186</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="PayPal" target="Teachfloor">
+      <data key="d1">0.015873015873015872</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Chargebee" target="Teachfloor">
+      <data key="d1">0.047619047619047616</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Patreon" target="LifterLMS">
+      <data key="d1">0.011627906976744186</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Razorpay" target="OnlineCourseHost.com">
+      <data key="d1">0.012345679012345678</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Magento" target="LifterLMS">
+      <data key="d1">0.011627906976744186</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Big Cartel" target="LifterLMS">
+      <data key="d1">0.011627906976744186</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Amazon Seller Central" target="LifterLMS">
+      <data key="d1">0.011627906976744186</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="WishList Member" target="LifterLMS">
+      <data key="d1">0.011627906976744186</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Madgex Job Board" target="Microsoft Excel">
+      <data key="d1">0.011320754716981131</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Madgex Job Board" target="Buffer">
+      <data key="d1">0.05</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Madgex Job Board" target="Freshdesk">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Convert Forms" target="Manatal">
+      <data key="d1">0.0196078431372549</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Masteriyo" target="WhatsApp Notifications">
+      <data key="d1">0.013157894736842105</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Masteriyo" target="Accredible Certificates">
+      <data key="d1">0.011363636363636364</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Masteriyo" target="Klaviyo">
+      <data key="d1">0.0125</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Masteriyo" target="Google Forms">
+      <data key="d1">0.041666666666666664</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Mastermind" target="Buffer">
+      <data key="d1">0.017241379310344827</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Masterpages" target="Mentortools">
+      <data key="d1">0.030303030303030304</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="MetaMinder" target="Google Calendar">
+      <data key="d1">0.017241379310344827</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Metaview" target="Act!">
+      <data key="d1">0.0625</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Metaview" target="Recruitly">
+      <data key="d1">0.125</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Metaview" target="Metaview">
+      <data key="d1">0.125</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Metaview" target="Google Drive">
+      <data key="d1">0.0125</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Act!" target="Act!">
+      <data key="d1">0.5</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Livestorm" target="Mini Course Generator">
+      <data key="d1">0.07692307692307693</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Zylvie" target="Mini Course Generator">
+      <data key="d1">0.07692307692307693</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="MyZenTeam" target="MailerLite Classic">
+      <data key="d1">0.018518518518518517</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Riddle Quiz Maker" target="Navigatr">
+      <data key="d1">0.14285714285714285</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Storylane" target="Navigatr">
+      <data key="d1">0.14285714285714285</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Northpass" target="Accredible Certificates">
+      <data key="d1">0.01818181818181818</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Northpass" target="Sertifier">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Northpass" target="Higher Logic Vanilla">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Northpass" target="CredSure">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Heyflow" target="onboard">
+      <data key="d1">0.1</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="GoodBarber" target="OnlineCourseHost.com">
+      <data key="d1">0.037037037037037035</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="SubHub" target="OnlineCourseHost.com">
+      <data key="d1">0.037037037037037035</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Paythen" target="OnlineCourseHost.com">
+      <data key="d1">0.018518518518518517</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Kennis.shop" target="OnlineCourseHost.com">
+      <data key="d1">0.037037037037037035</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Crove" target="OnlineCourseHost.com">
+      <data key="d1">0.037037037037037035</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Polymer" target="Any.do Personal">
+      <data key="d1">0.05555555555555555</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Polymer" target="Google Chat">
+      <data key="d1">0.01282051282051282</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Qualiobee" target="Brevo">
+      <data key="d1">0.013157894736842105</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Qualiobee" target="Facture.net">
+      <data key="d1">0.25</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="QuestionScout" target="Qualiobee">
+      <data key="d1">1.0</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="RecruitApp.ai" target="SMS by Zapier">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Parseur" target="RoboRecruiter Application">
+      <data key="d1">0.020833333333333332</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Rooster" target="Shape">
+      <data key="d1">0.029411764705882353</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Fathom" target="Small Improvements">
+      <data key="d1">0.08333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="SmartSearch" target="Microsoft Teams">
+      <data key="d1">0.023809523809523808</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="The Magic Drip" target="The Magic Drip">
+      <data key="d1">0.5</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ceipal" target="SourceWhale">
+      <data key="d1">0.14285714285714285</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Talexio" target="Mattermost">
+      <data key="d1">0.075</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Talexio" target="Looping by Zapier">
+      <data key="d1">0.1</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Talk Hiring" target="Salesforce">
+      <data key="d1">0.018518518518518517</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="BrightHR" target="Tanda">
+      <data key="d1">0.5</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Teach 'n Go" target="Zapier Tables">
+      <data key="d1">0.024390243902439025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Bloom" target="Teamtailor">
+      <data key="d1">0.01818181818181818</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Talkie" target="Teamtailor">
+      <data key="d1">0.01818181818181818</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="GetProspect" target="Teamtailor">
+      <data key="d1">0.01818181818181818</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Transkriptor" target="Teamtailor">
+      <data key="d1">0.01818181818181818</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="tousquali" target="Discord">
+      <data key="d1">0.011904761904761904</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="tousquali" target="ClickUp">
+      <data key="d1">0.01282051282051282</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="edoobox" target="Tovuti LMS">
+      <data key="d1">0.5</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Eventbrite" target="Tribal Habits LMS">
+      <data key="d1">0.1111111111111111</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="POWR Form Builder" target="Tribal Habits LMS">
+      <data key="d1">0.1111111111111111</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tutory" target="AWeber">
+      <data key="d1">0.0125</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tutory" target="RD Station">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tutory" target="Facebook Conversions">
+      <data key="d1">0.02</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tutory" target="Runrun.it">
+      <data key="d1">0.05</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tutory" target="SurveyMonkey">
+      <data key="d1">0.03333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Tutory" target="TinyEmail">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Firefish" target="Ubeya">
+      <data key="d1">0.1111111111111111</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Demio" target="Delay by Zapier">
+      <data key="d1">0.07142857142857142</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Viterbit" target="Docusign">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Viterbit" target="Holded">
+      <data key="d1">0.08333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Snov.io" target="Voyager Infinity">
+      <data key="d1">0.3333333333333333</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Omnify" target="When I Work">
+      <data key="d1">0.038461538461538464</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="YM Careers" target="NetSuite">
+      <data key="d1">0.08333333333333333</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Yuvo" target="Xero">
+      <data key="d1">0.013888888888888888</data>
+      <data key="d2">2</data>
+    </edge>
+    <edge source="Copilot" target="Zapier Interfaces">
+      <data key="d1">0.06666666666666667</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Urable" target="Zapier Interfaces">
+      <data key="d1">0.06666666666666667</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Blaze.ai" target="Zapier Interfaces">
+      <data key="d1">0.06666666666666667</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Aesthetic Record EMR" target="Zapier Interfaces">
+      <data key="d1">0.06666666666666667</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Checkout Page" target="Zapier Interfaces">
+      <data key="d1">0.06666666666666667</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Zenegy" target="Microsoft Office 365">
+      <data key="d1">0.010380622837370242</data>
+      <data key="d2">3</data>
+    </edge>
+    <edge source="Zenegy" target="OneNote">
+      <data key="d1">0.058823529411764705</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Zenegy" target="Zapier Manager">
+      <data key="d1">0.0196078431372549</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Zenegy" target="Pleo">
+      <data key="d1">0.011764705882352941</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="FareHarbor" target="Zoho People">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Hubstaff" target="Zoho People">
+      <data key="d1">0.025</data>
+      <data key="d2">1</data>
+    </edge>
+  </graph>
+</graphml>
