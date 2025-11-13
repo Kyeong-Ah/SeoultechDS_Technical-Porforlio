@@ -2,7 +2,7 @@
 Technical porfolio for Data Science Master degree
 
 ## 1. 데이터 사이언스 공통
-- /Guduate Reserach
+- /Reproducibility challenge
 
 
 ## 2. 데이터 수집 및 정제
