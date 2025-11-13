@@ -2,7 +2,7 @@
 Technical porfolio for Data Science Master degree
 
 ## 1. 데이터 사이언스 공통
-- /Reproducibility challenge
+- /Reproducibility challenge   
 해당 폴더 내 README.md에 설명 작성하였습니다.
 
  <br/>
@@ -39,5 +39,7 @@ Technical porfolio for Data Science Master degree
  <br/>
  
 ## 3. 데이터 활용 및 분석
-- /ML application
+- /ML application   
+해당 폴더 내 README.md에 설명 작성하였습니다.
 
+ <br/>
